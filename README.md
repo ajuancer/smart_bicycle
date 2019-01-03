@@ -6,7 +6,6 @@ If you have any idea or suggestion, don't hasitate to write it in the comments b
 
 ## Index
 
-- Automatically open the door when you arrive home [./gps-door.ino]
 - Show a row in the matrix at the back of your bicycle when you turn right or left [./move-matrix.ino]
 
 ## Installing
